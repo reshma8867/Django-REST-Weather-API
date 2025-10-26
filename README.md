@@ -17,13 +17,3 @@ Before running this project, you need to have the following installed:
 
 * Python (3.8+)
 * pip (Python package installer)
-
-## 🚀 Local Setup and Installation
-
-Follow these steps to set up the project locally:
-
-### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/YOUR_USERNAME/Django-REST-Weather-API.git](https://github.com/YOUR_USERNAME/Django-REST-Weather-API.git)
-cd Django-REST-Weather-API
